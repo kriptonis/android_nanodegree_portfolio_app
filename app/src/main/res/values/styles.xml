@@ -1,0 +1,25 @@
+<resources>
+
+    <color name="white_opaque">#FFFFFFFF</color>
+    <color name="pitch_black">#FF000000</color>
+    <color name="udacious_color">#F08C35</color>
+    <color name="light_blue">#e0f7fa</color>
+    <color name="red">#f44336</color>
+
+
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+
+
+    <style name="MyAppTheme" parent="android:Theme.Light">
+        <item name="android:background">@color/white_opaque</item>
+        <item name="android:windowBackground">@color/white_opaque</item>
+        <item name="android:colorBackground">@color/white_opaque</item>
+
+    </style>
+
+</resources>
